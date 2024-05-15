@@ -1150,7 +1150,7 @@ h4 {font-size: 16px; line-height: 20px;}
 .contact-section .contact_content h2 {margin-bottom: 18px;}
 .contact-section .contact-box {padding: 18px; width: 78%;}
 .contact-section .contact-box figure {margin-left: 24px; height: 85px; width: 85px; line-height: 85px;}
-.contact-section .contact-box p {font-size: 14px; line-height: 20px; margin-bottom: 2px; padding: 0 28px;}
+.contact-section .contact-box p {font-size: 14px;line-height: 20px;margin-bottom: 2px;padding: 0 28px;text-align: left;}
 .contact-section .contact-box .box-content a {font-size: 14px; line-height: 20px;}
 .contact-section .need-section {margin-top: -46px; margin-left: 0;}
 .contact-section .need_content {padding: 35px 30px; width: 100%;}
