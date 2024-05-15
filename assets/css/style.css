@@ -3146,6 +3146,8 @@ p {
 .contact-section .contact-box h4 {
     font-weight: 700;
     margin-bottom: 4px;
+    text-align: left;
+    padding-left: 25px;
 }
 
 .contact-section .contact-box .heading {
